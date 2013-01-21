@@ -3,7 +3,11 @@ Tug Of War
 
 Demonstration game for JAM379 to be delivered at the BlackBerry 10 European Launch - Feb 2013
 
+Description
+---
 This is a traditional Tug of War game where two teams pull on a rope in opposite directions. The team which pulls the hardest wins.
+
+The game is designed to be played with an audience which is split into two teams who compete against each other.
 
 Setup
 ---
