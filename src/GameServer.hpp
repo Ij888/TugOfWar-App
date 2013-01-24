@@ -20,11 +20,6 @@ protected:
 private:
 	int listenPort;
 
-private slots:
-	void handleRequest();
-
-	//void discardClient();
-
 };
 
 #endif /* GAMESERVER_HPP_ */
