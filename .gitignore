@@ -12,3 +12,6 @@ arm/*
 *.lai
 *.la
 *.a
+
+# QML preview cache
+assets/.*
