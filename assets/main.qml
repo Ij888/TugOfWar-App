@@ -40,16 +40,15 @@ Page {
                 horizontalAlignment: HorizontalAlignment.Center
             }
             Container {
+                
+                //background: Color.Yellow
                 layout: StackLayout {
                     orientation: LayoutOrientation.LeftToRight
                 }
-                leftPadding: 120.0
-                rightPadding: 120.0
+                leftPadding: 150.0
+                rightPadding: 150.0
                 ImageView {
-                    imageSource: "btn_fred.png"
-                }
-                ImageView {
-                    imageSource: "btn_wilma.png"
+                    imageSource: "don.png"
                 }
                 Container {
                     layoutProperties: StackLayoutProperties {
@@ -57,10 +56,7 @@ Page {
                     }
                 }
                 ImageView {
-                    imageSource: "btn_betty.png"
-                }
-                ImageView {
-                    imageSource: "btn_barny.png"
+                    imageSource: "luca.png"
                 }
             }
         }
