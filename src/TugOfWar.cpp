@@ -19,3 +19,4 @@ TugOfWar::TugOfWar(bb::cascades::Application *app) :
 	// set created root object as a scene
 	app->setScene(root);
 }
+//seems greek
